@@ -16,7 +16,7 @@ class ViewController: UIViewController,UIWebViewDelegate {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        let url = NSURL(string: "http://2015-gveservices.cs17.force.com/GVSupport/")
+        let url = NSURL(string: "http://gveservices.force.com/GVSupport")
         let request = NSURLRequest(URL: url!)
         webView.loadRequest(request)
     }

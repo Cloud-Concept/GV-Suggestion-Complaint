@@ -142,7 +142,7 @@
 				TargetAttributes = {
 					9D61CB561BB8173D0035B7DD = {
 						CreatedOnToolsVersion = 6.4;
-						DevelopmentTeam = CSS2DLH755;
+						DevelopmentTeam = AWFKEDZ82Q;
 					};
 				};
 			};
@@ -230,8 +230,8 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Dubai Aviation City Corporation - Dubai World Central (7L63S6S4ES)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Dubai Aviation City Corporation - Dubai World Central (7L63S6S4ES)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Qaiser Abbas (S6KJNVRGXQ)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Qaiser Abbas (S6KJNVRGXQ)";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_BITCODE = NO;
@@ -252,10 +252,10 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
-				PROVISIONING_PROFILE = "fea915c8-9ef2-479b-8bca-9ba4c17e0f6f";
+				PROVISIONING_PROFILE = "aff6b6e0-584a-4afc-b7f7-08d74d1f10d3";
 				SDKROOT = iphoneos;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -279,8 +279,8 @@
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: Dubai Aviation City Corporation - Dubai World Central (7L63S6S4ES)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: Dubai Aviation City Corporation - Dubai World Central (7L63S6S4ES)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Qaiser Abbas (S6KJNVRGXQ)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Qaiser Abbas (S6KJNVRGXQ)";
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				ENABLE_BITCODE = NO;
@@ -294,9 +294,9 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 8.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
-				PROVISIONING_PROFILE = "fea915c8-9ef2-479b-8bca-9ba4c17e0f6f";
+				PROVISIONING_PROFILE = "aff6b6e0-584a-4afc-b7f7-08d74d1f10d3";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
@@ -308,12 +308,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Qaiser Abbas (S6KJNVRGXQ)";
 				INFOPLIST_FILE = "GV Suggestion & Complaint/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.cloudconcept.GV-Suggestion-and-Complaint";
 				PRODUCT_NAME = "GV Suggestion & Complaint";
-				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE = "aff6b6e0-584a-4afc-b7f7-08d74d1f10d3";
 				SWIFT_OBJC_BRIDGING_HEADER = "GV Suggestion & Complaint/Header.h";
 			};
 			name = Debug;
@@ -323,12 +324,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Qaiser Abbas (S6KJNVRGXQ)";
 				INFOPLIST_FILE = "GV Suggestion & Complaint/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.cloudconcept.GV-Suggestion-and-Complaint";
 				PRODUCT_NAME = "GV Suggestion & Complaint";
-				PROVISIONING_PROFILE = "";
+				PROVISIONING_PROFILE = "aff6b6e0-584a-4afc-b7f7-08d74d1f10d3";
 				SWIFT_OBJC_BRIDGING_HEADER = "GV Suggestion & Complaint/Header.h";
 			};
 			name = Release;
